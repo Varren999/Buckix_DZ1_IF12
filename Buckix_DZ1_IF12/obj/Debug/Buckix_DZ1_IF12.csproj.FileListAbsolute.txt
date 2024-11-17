@@ -1,0 +1,7 @@
+C:\Users\varre\source\repos\Buckix_DZ1_IF12\Buckix_DZ1_IF12\bin\Debug\Buckix_DZ1_IF12.exe.config
+C:\Users\varre\source\repos\Buckix_DZ1_IF12\Buckix_DZ1_IF12\bin\Debug\Buckix_DZ1_IF12.exe
+C:\Users\varre\source\repos\Buckix_DZ1_IF12\Buckix_DZ1_IF12\bin\Debug\Buckix_DZ1_IF12.pdb
+C:\Users\varre\source\repos\Buckix_DZ1_IF12\Buckix_DZ1_IF12\obj\Debug\Buckix_DZ1_IF12.csproj.AssemblyReference.cache
+C:\Users\varre\source\repos\Buckix_DZ1_IF12\Buckix_DZ1_IF12\obj\Debug\Buckix_DZ1_IF12.csproj.CoreCompileInputs.cache
+C:\Users\varre\source\repos\Buckix_DZ1_IF12\Buckix_DZ1_IF12\obj\Debug\Buckix_DZ1_IF12.exe
+C:\Users\varre\source\repos\Buckix_DZ1_IF12\Buckix_DZ1_IF12\obj\Debug\Buckix_DZ1_IF12.pdb

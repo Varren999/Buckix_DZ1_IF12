@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buckix_DZ1_IF12", "Buckix_DZ1_IF12\Buckix_DZ1_IF12.csproj", "{4531CED7-3AA6-4F5B-B0CC-42942BD495DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4531CED7-3AA6-4F5B-B0CC-42942BD495DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4531CED7-3AA6-4F5B-B0CC-42942BD495DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4531CED7-3AA6-4F5B-B0CC-42942BD495DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4531CED7-3AA6-4F5B-B0CC-42942BD495DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF2DE881-35E8-4137-9298-D10C6EE6F3D8}
+	EndGlobalSection
+EndGlobal
